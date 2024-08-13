@@ -1,5 +1,7 @@
 # Kirby like Platformer Game made with TypeScript + Kaboom.js
 
+Play the game, click this link https://akashbellary.github.io/Kirby-game/
+
 This project is done by Akash BR.
 Want to know more about Me. LinkedIn: https://www.linkedin.com/in/akash-br-b86a94219/
 
